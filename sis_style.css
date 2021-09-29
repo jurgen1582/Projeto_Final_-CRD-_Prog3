@@ -1,0 +1,15 @@
+.deleta {
+    width: 35px;
+    height: 35px;
+    border: 1px solid #f14040;
+    border-radius: 5px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 105px;
+}
+
+.deleta:hover {
+    background-color: #f7e4e4;
+    
+}   
